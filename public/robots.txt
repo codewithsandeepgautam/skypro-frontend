@@ -1,0 +1,22 @@
+Sitemap: https://www.skypro.co.in/sitemap.xml
+
+User-agent: *
+Disallow: /iptv-subscription-packages/hindi-gold-plus-sd-suggestive-bouquet
+Disallow: /iptv-subscription-packages/hindi-platinum-hd-suggestive-bouquet
+Disallow: /iptv-subscription-packages/hindi-gold-hd-suggestive-bouquet
+Disallow: /iptv-subscription-packages/hindi-gold-sd-suggestive-bouquet
+Disallow: /iptv-subscription-packages/hindi-silver-hd-suggestive-bouquet
+Disallow: /iptv-subscription-packages/hindi-silver-sd-suggestive-bouquet
+Disallow: /iptv-subscription-packages/hindi-bronze-sd-suggestive-bouquet
+Disallow: /cities
+Disallow: /cities/iptv-service-provider-bangalore
+Disallow: /cities/iptv-service-provider-chandigarh
+Disallow: /cities/iptv-service-provider-delhi
+Disallow: /cities/iptv-service-provider-maharashtra
+Disallow: /cities/iptv-service-provider-mohali
+Disallow: /cities/iptv-service-provider-mumbai
+Disallow: /cities/iptv-service-provider-punjab
+Disallow: /accreditations
+Disallow: /our-journey
+Disallow: /privacy-policy-kr
+Disallow: /careers
